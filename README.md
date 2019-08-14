@@ -23,3 +23,11 @@ This Jupyter Notebook takes two input playlists and does the following:
     3. Use KNN Algorithm to predict which playlist a song may belong to
     
 - all inputs for playlists and tracks ... enter without the prefix. So for example, enter: *"5Sf3GyLEAzJXxZ5mbCPXTu"*. DO NOT ENTER: *"spotify:track:5Sf3GyLEAzJXxZ5mbCPXTu"*
+
+
+# Improvements
+I'd like to revisit this idea and make this into a full-fledged ML Suite that can make meaningful insight from my Spotify Library. KNN was the simplest to implement, but eventually I'd like to add the following:
+- Linear Regression
+- Nueral Networks
+- Support Vector Machines
+- the list goes on and on
